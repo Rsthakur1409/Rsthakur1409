@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rsthakur1409
+- 👋 Hi, I’m Rajesh Singh Thakur
 - 👀 I’m interested in machine learning,data science and nlp 
 - 🌱 I’m currently learning NLP for research work
 - 💞️ I’m looking to collaborate on ...
